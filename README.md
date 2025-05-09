@@ -14,8 +14,8 @@ Follow these steps to get a copy of automated metadata extraction app and runnin
 ### Step 1. Clone the repository:
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/gemma-gradio-app.git
-cd gemma-gradio-app
+git clone https://github.com/Tejasree-SRH-Thesis/Qwen2.5-1.5B-Instruct.git
+cd Qwen2.5-1.5B-Instruct
 ```
 
 ### Step 2. Create a virtual environment and activate it:
