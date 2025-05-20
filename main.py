@@ -80,8 +80,7 @@ Extract the following fields and return ONLY valid JSON (no extra text, no markd
   "DOI": "DOI if available",
   "Keywords": ["Keyword1", "Keyword2"],
   "Abstract": "Abstract text",
-  "Document Type": "Research Paper, Thesis, etc.",
-  "Number of References": 10
+  "Document Type": "Research Paper, Thesis, etc."
 }}
 
 Here is the paper content:
