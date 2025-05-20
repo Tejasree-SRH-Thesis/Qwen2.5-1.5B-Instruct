@@ -61,3 +61,8 @@ Once you run Step5, you can upload PDF files of scientific documents and test th
 
 ### Acknowledgments
 Special thanks to Professor Binh Vu and SRH Heidelberg for supporting this project.
+### Host
+The Automated Metadata Etractor app is hosted on `Hugging face spaces` and can be accessed at the following URL:
+```bash
+https://huggingface.co/spaces/tejasreereddy/Thesis
+```
