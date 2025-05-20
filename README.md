@@ -64,5 +64,5 @@ Special thanks to Professor Binh Vu and SRH Heidelberg for supporting this proje
 ### Host
 The Automated Metadata Etractor app is hosted on `Hugging face spaces` and can be accessed at the following URL:
 ```bash
-https://huggingface.co/spaces/tejasreereddy/Thesis
+https://huggingface.co/spaces/tejasreereddy/MetadataExtractor
 ```
